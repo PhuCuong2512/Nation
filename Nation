@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Việt Nam",
+    "food": "Banh mi",
+    "capital": "Ha Noi"
+  },
+  {
+    "name": "France",
+    "food": "Suon cuu nuong",
+    "capital": "Paris"
+  },
+  {
+    "name": "ThaiLand",
+    "food": "Goi",
+    "capital": "Bangkok"
+  }
+]

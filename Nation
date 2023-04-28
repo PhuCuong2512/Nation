@@ -2,16 +2,22 @@
   {
     "name": "Việt Nam",
     "food": "Banh mi",
-    "capital": "Ha Noi"
+    "capital": "Ha Noi",
+    "farmer": "Cuong vui ve",
+    "football": "Quang Hai"
   },
   {
     "name": "France",
     "food": "Suon cuu nuong",
-    "capital": "Paris"
+    "capital": "Paris",
+    "farmer": "hung hi hung",
+    "football": "Mpabbe"
   },
   {
     "name": "ThaiLand",
     "food": "Goi",
-    "capital": "Bangkok"
+    "capital": "Bangkok",
+    "farmer": "Quang quau qo",
+    "football": "chanathip"
   }
 ]
